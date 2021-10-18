@@ -3,6 +3,9 @@
 ## Live Demo
 [https://stoic-ritchie-1d15cf.netlify.app/](https://stoic-ritchie-1d15cf.netlify.app/)
 
+### For Composition API Version:
+[https://github.com/marccorpus/guessing-game-using-composition-api](https://github.com/marccorpus/guessing-game-using-composition-api)
+
 ### Screenshots
 ![1](https://user-images.githubusercontent.com/23694053/137769936-bc0336e9-2410-43fa-beae-a58418e1ac66.png)
 
